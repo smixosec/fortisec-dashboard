@@ -2,6 +2,29 @@
 
 FortiSec Dashboard is an enterprise-grade security operations center (SOC) dashboard that provides real-time monitoring of security systems, alerts, user accounts, and compliance metrics. Built with modern web technologies, it delivers a professional interface designed for security analysts, DevSecOps engineers, and IT administrators.
 
+
+
+![FortiSec Dashboard](https://img.shields.io/badge/FortiSec-Dashboard-blueviolet)
+![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwind-css)
+![License](https://img.shields.io/badge/License-MIT-green)
+![SOC Ready](https://img.shields.io/badge/SOC-Ready-red)
+![Enterprise Grade](https://img.shields.io/badge/Enterprise-Grade-blue)
+
+**Enterprise Security Operations Center Dashboard for Modern SOC Teams**
+
+
+
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nextjs.jpg" width="50" alt="Next.js Logo">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg" width="50" alt="TypeScript Logo">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TailwindCSS-Dark.svg" width="50" alt="Tailwind CSS Logo">
+</p>
+
 ## Features
 
 ### Analytics Dashboard
@@ -179,4 +202,5 @@ MIT License - Free to use for personal and commercial projects
 
 ## Acknowledgments
 
-Built with v0 by Vercel using Next.js, shadcn/ui, and Recharts. Designed for enterprise security operations with a focus on usability, performance, and scalability.
+Built with ❤️ for the security community and v0 by Vercel using Next.js, shadcn/ui, and Recharts. Designed for enterprise security operations with a focus on usability, performance, and scalability.
+
